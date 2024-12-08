@@ -28,4 +28,4 @@
 
 
 ## About us page
-![Screenshot 2022-06-12 at 2 00 27 PM](https://user-images.githubusercontent.com/71332138/173224678-7049b39d-e248-4e59-9fb6-37d9b703edaf.png)
+
